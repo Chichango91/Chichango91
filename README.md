@@ -5,12 +5,16 @@
 
 ## *CONTACTOS E ENDEREÇO*
 Estrada Matola Gare - Witbank, casa N262, Q18 - Tchumene 2, Cidade da Matola*
-email: chichango91@gmail.com; cell: +258 82 330 0661
+
+Email: chichango91@gmail.com; Cell: +258 82 330 0661
 
 *Desenvolvedor iniciante de Software em Aplicações Web*
 CISCO Networking Academy Instructor
 
-
+## PROJETOS
+- Pesquisador em Segurança Cibernética  
++ Sistemas de Informação Judiciários
++ Robótica computacional para o ensino
 
  
 _Engenharia Informática_
