@@ -1,5 +1,5 @@
 ## Hi there 👋
-#*PERFIL ACTUAL*
+## *PERFIL ACTUAL*
 #_Docente de Programação & Chefe de Depto de Manutenção de Equipamentos Informáticos_
 *Instituto Industrial e de Computação Armando Emílio Guebuza*
 
