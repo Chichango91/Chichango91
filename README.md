@@ -1,10 +1,14 @@
 ## Hi there 👋
-I'm teaching now!
+#_Docente de Programação - Instituto Industrial e de Computação Armando Emílio Guebuza_
 
-# Chichango
-## José Alfredo
+## email: chichango91@gmail.com; cell: +258 82 330 0661
+
+*Desenvolvedor iniciante de Software em Aplicações Web*
+
+
+ 
 _Engenharia Informática_
-*Programação de Aplicações Web*
+**
 
 <!--
 **Chichango91/Chichango91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
