@@ -1,6 +1,11 @@
 ## Hi there 👋
 I'm teaching now!
 
+# Chichango
+## José Alfredo
+_Engenharia Informática_
+*Programação de Aplicações Web*
+
 <!--
 **Chichango91/Chichango91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
